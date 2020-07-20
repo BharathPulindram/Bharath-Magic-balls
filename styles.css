@@ -1,0 +1,9 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+canvas{
+    background-color: rgba(13, 3, 26, 0.822);
+    border: 3px solid rgb(73, 9, 9);
+}
